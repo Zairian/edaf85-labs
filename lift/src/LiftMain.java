@@ -3,7 +3,7 @@ import lift.LiftThread;
 import lift.LiftView;
 import lift.PassengerThread;
 
-public class Main {
+public class LiftMain {
 
     public static void main(String[] args) {
         LiftView view = new LiftView();
